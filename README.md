@@ -41,11 +41,11 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🌱 Soil Organic Carbon (CNN)](https://github.com/RitikaDharamkarJ/) | Predicting soil organic carbon from images using CNNs | Python · TensorFlow · CNN · Computer Vision |
-| [🌱 Soil Organic Carbon (LightGBM)](https://github.com/RitikaDharamkarJ/) | AutoML & LightGBM pipeline for soil carbon prediction | Python · LightGBM · AutoML · Scikit-learn |
-| [🚛 Truck Delay Prediction](https://github.com/RitikaDharamkarJ/) | End-to-end ML pipeline deployed on AWS SageMaker | XGBoost · MLflow · AWS · Streamlit |
+| [🌱 Soil Organic Carbon (CNN)](https://github.com/RitikaDharamkarJ/Soil_Organic_Carbon_Prediction_From_Soil_Images_CNN) | Predicting soil organic carbon from images using CNNs | Python · TensorFlow · CNN · Computer Vision |
+| [🌱 Soil Organic Carbon (LightGBM)](https://github.com/FAES-LalCarbonCenter/SOC_Prediction_using_Smartphone_Imaging) | AutoML & LightGBM pipeline for soil carbon prediction | Python · LightGBM · AutoML · Scikit-learn |
+| [🚛 Truck Delay Prediction](https://github.com/RitikaDharamkarJ/Truck_Delay_Prediction-End-to-End-ML-Pipeline) | End-to-end ML pipeline deployed on AWS SageMaker | XGBoost · MLflow · AWS · Streamlit |
 | [🤖 AI Chatbot LLM](https://github.com/RitikaDharamkarJ/chatbot-llm-app) | OpenAI + LangChain chatbot with 500+ query handling | OpenAI · LangChain · Python · Streamlit |
-| [🧩 Agentic AI Research Assistant](https://github.com/RitikaDharamkarJ/) | Multi-agent system with LangGraph, RAG & tool-calling | LangGraph · RAG · LangChain · OpenAI |
+| [🧩 Agentic AI Research Assistant](https://github.com/RitikaDharamkarJ/Agentic-AI-Research-Assistant) | Multi-agent system with LangGraph, RAG & tool-calling | LangGraph · RAG · LangChain · OpenAI |
 | [🛡️ Cyberbullying Detection](https://github.com/RitikaDharamkarJ/Predicting_Cyberbullying_Behaviour_in_Social_Media_Using_Machine_Learning_Techniques) | IEEE ICMI 2024 — CatBoost 83% accuracy on Twitter data | NLP · CatBoost · SVM · Python |
 | [🌡️ Smart Building Energy](https://github.com/RitikaDharamkarJ/Smart-Temperature-Management-in-Buildings-using-Predictive-Analysis-by-Machine-Learning-Algorithms-) | IEEE CSCI 2023 — Random Forest best model for energy loads | Random Forest · Regression · Python |
 | [📈 Sales Prediction](https://github.com/RitikaDharamkarJ/Sales-Prediction-using-Decision-tree-and-SVM-Machine-Learning-Algorithms) | Decision Tree 98.6% accuracy on retail sales data | Decision Tree · SVM · MLP · Scikit-learn |
