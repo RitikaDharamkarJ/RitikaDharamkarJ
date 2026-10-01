@@ -53,13 +53,17 @@
 ### Machine Learning & Research
 
 | Project | Purpose | Technologies |
+### 🚀 Machine Learning & Research Projects
+
+| Project | Purpose | Technologies |
 |---|---|---|
-| 🌱 Soil Organic Carbon — CNN | Predicts soil organic carbon from images using convolutional neural networks. | Python · TensorFlow · CNN · Computer Vision |
-| 🌱 Soil Organic Carbon — LightGBM | Uses AutoML and LightGBM for soil carbon prediction. | Python · LightGBM · AutoML · Scikit-learn |
-| 🚛 Truck Delay Prediction | End-to-end prediction pipeline deployed on AWS SageMaker. | XGBoost · MLflow · AWS · Streamlit |
-| 🛡️ Cyberbullying Detection | Applies NLP and machine learning to detect cyberbullying in social media text; associated with an IEEE ICMI 2024 publication. | NLP · CatBoost · SVM · Python |
-| 🌡️ Smart Building Energy | Compares machine learning models for building energy load prediction; associated with an IEEE CSCI 2023 publication. | Random Forest · Regression · Python |
-| 📈 Sales Prediction | Explores machine learning models for retail sales prediction. | Decision Tree · SVM · MLP · Scikit-learn |
+| [🔬 Smartphone SOC Prediction — Unseen Soil Validation](https://github.com/RitikaDharamkarJ/Assessing-Smartphone-Image-Based-Prediction-of-Soil-Organic-Carbon-Content-Across-Unseen-Soils) | Investigates how validation design affects soil carbon prediction across 731 smartphone images from 20 physical soils. Compares image-level and soil-level splits, revealing strong performance on known soils but poor generalization to entirely unseen soils. Includes feature selection, sensitivity analyses, and statistical validation. | Python · AutoML · GroupKFold · Feature Selection · Statistical Testing |
+| [🌱 Soil Organic Carbon — CNN](https://github.com/RitikaDharamkarJ/Soil_Organic_Carbon_Prediction_From_Soil_Images_CNN) | Predicts soil organic carbon from soil images using convolutional neural networks. | Python · TensorFlow · CNN · Computer Vision |
+| [🌱 Soil Organic Carbon — AutoML & LightGBM](https://github.com/FAES-LalCarbonCenter/SOC_Prediction_using_Smartphone_Imaging) | Uses smartphone image features, feature selection, and automated machine learning for soil organic carbon prediction. | Python · LightGBM · AutoML · Scikit-learn |
+| [🚛 Truck Delay Prediction](https://github.com/RitikaDharamkarJ/TruckDelay) | Builds an end-to-end machine learning pipeline for truck delay prediction, with deployment on AWS SageMaker. | XGBoost · MLflow · AWS · Streamlit |
+| [🛡️ Cyberbullying Detection](https://github.com/RitikaDharamkarJ/Predicting_Cyberbullying_Behaviour_in_Social_Media_Using_Machine_Learning_Techniques) | Applies NLP and machine learning to detect cyberbullying in social media text. Associated with an IEEE ICMI 2024 publication. | NLP · CatBoost · SVM · Python |
+| [🌡️ Smart Building Energy Prediction](https://github.com/RitikaDharamkarJ/Smart-Temperature-Management-in-Buildings-using-Predictive-Analysis-by-Machine-Learning-Algorithms-) | Compares machine learning models for predicting building energy loads. Associated with an IEEE CSCI 2023 publication. | Random Forest · Regression · Python |
+| [📈 Sales Prediction](https://github.com/RitikaDharamkarJ/Sales-Prediction-using-Decision-tree-and-SVM-Machine-Learning-Algorithms) | Compares machine learning approaches for retail sales prediction. | Decision Tree · SVM · MLP · Scikit-learn |
 ---
 
 ## 📜 IEEE Publications
