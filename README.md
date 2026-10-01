@@ -37,19 +37,29 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🌱 Soil Organic Carbon (CNN)](https://github.com/RitikaDharamkarJ/Soil_Organic_Carbon_Prediction_From_Soil_Images_CNN) | Predicting soil organic carbon from images using CNNs | Python · TensorFlow · CNN · Computer Vision |
-| [🌱 Soil Organic Carbon (LightGBM)](https://github.com/FAES-LalCarbonCenter/SOC_Prediction_using_Smartphone_Imaging) | AutoML & LightGBM pipeline for soil carbon prediction | Python · LightGBM · AutoML · Scikit-learn |
-| [🚛 Truck Delay Prediction](https://github.com/RitikaDharamkarJ/Truck_Delay_Prediction-End-to-End-ML-Pipeline) | End-to-end ML pipeline deployed on AWS SageMaker | XGBoost · MLflow · AWS · Streamlit |
-| [🤖 AI Chatbot LLM](https://github.com/RitikaDharamkarJ/chatbot-llm-app) | OpenAI + LangChain chatbot with 500+ query handling | OpenAI · LangChain · Python · Streamlit |
-| [🧩 Agentic AI Research Assistant](https://github.com/RitikaDharamkarJ/Agentic-AI-Research-Assistant) | Multi-agent system with LangGraph, RAG & tool-calling | LangGraph · RAG · LangChain · OpenAI |
-| [🛡️ Cyberbullying Detection](https://github.com/RitikaDharamkarJ/Predicting_Cyberbullying_Behaviour_in_Social_Media_Using_Machine_Learning_Techniques) | IEEE ICMI 2024 — CatBoost 83% accuracy on Twitter data | NLP · CatBoost · SVM · Python |
-| [🌡️ Smart Building Energy](https://github.com/RitikaDharamkarJ/Smart-Temperature-Management-in-Buildings-using-Predictive-Analysis-by-Machine-Learning-Algorithms-) | IEEE CSCI 2023 — Random Forest best model for energy loads | Random Forest · Regression · Python |
-| [📈 Sales Prediction](https://github.com/RitikaDharamkarJ/Sales-Prediction-using-Decision-tree-and-SVM-Machine-Learning-Algorithms) | Decision Tree 98.6% accuracy on retail sales data | Decision Tree · SVM · MLP · Scikit-learn |
+### Generative AI & NLP
 
+| Project | Purpose | Technologies |
+|---|---|---|
+| [🧩 Agentic AI Research Assistant](https://github.com/RitikaDharamkarJ/agentic-ai-research-assistant) | Searches the web, reviews retrieved evidence, and generates a research report with source citations through a multi-step workflow. | Python · LangChain · LangGraph · Gemini · Tavily |
+| [📚 Insurance RAG Assistant](https://github.com/RitikaDharamkarJ/insurance-rag-assistant) | Answers questions using information retrieved from uploaded documents. Includes a healthcare document demonstration. | Python · Sentence Transformers · ChromaDB · Gemini · PyPDF2 |
+| [🔗 Neo4j Document Knowledge Assistant](https://github.com/RitikaDharamkarJ/graphrag-neo4j-assistant) | Processes PDFs, stores document chunks and embeddings in Neo4j, and retrieves relevant context to generate answers. | Python · Neo4j · Gemini · Docling · Gradio |
+| [💬 BERT Sentiment Fine-Tuning](https://github.com/RitikaDharamkarJ/bert-sentiment-finetuning) | Fine-tunes BERT to classify IMDb movie reviews as positive or negative, including preprocessing, training, validation, and evaluation. | Python · Hugging Face Transformers · PyTorch · Pandas · Scikit-learn |
+| 🤖 AI Chatbot LLM | Conversational application built with OpenAI and LangChain. | OpenAI · LangChain · Python · Streamlit |
+
+### Machine Learning & Research
+
+| Project | Purpose | Technologies |
+|---|---|---|
+| 🌱 Soil Organic Carbon — CNN | Predicts soil organic carbon from images using convolutional neural networks. | Python · TensorFlow · CNN · Computer Vision |
+| 🌱 Soil Organic Carbon — LightGBM | Uses AutoML and LightGBM for soil carbon prediction. | Python · LightGBM · AutoML · Scikit-learn |
+| 🚛 Truck Delay Prediction | End-to-end prediction pipeline deployed on AWS SageMaker. | XGBoost · MLflow · AWS · Streamlit |
+| 🛡️ Cyberbullying Detection | Applies NLP and machine learning to detect cyberbullying in social media text; associated with an IEEE ICMI 2024 publication. | NLP · CatBoost · SVM · Python |
+| 🌡️ Smart Building Energy | Compares machine learning models for building energy load prediction; associated with an IEEE CSCI 2023 publication. | Random Forest · Regression · Python |
+| 📈 Sales Prediction | Explores machine learning models for retail sales prediction. | Decision Tree · SVM · MLP · Scikit-learn |
 ---
 
 ## 📜 IEEE Publications
